@@ -1,51 +1,57 @@
-# 👩‍💻 Personal Portfolio | Nguyễn Thanh Tuyền
-
-### About me :wave:
-Hi, my name is Tuyền. I am currently a 3rd-year Information Technology student at Ho Chi Minh City University of Education (HCMUE), specializing in **Software Quality Assurance (SQA)**. 
-
-My career goal is to start as a **Manual Tester / QA Intern** to build a solid foundation in functional testing and bug tracking, with a long-term vision of becoming an **Automation QA Engineer**. I am highly passionate about ensuring software quality, improving user experience, and optimizing testing workflows using CI/CD pipelines. Welcome to my digital portfolio!
-
-[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/username/)
+<div align="center">
+  <h1>👋 Hello, I'm Nguyễn Thanh Tuyền</h1>
+  <h3><i>Aspiring QA/QC Engineer | Manual & Automation Testing</i></h3>
+</div>
 
 ---
 
-### Tech Stack & Tools :wrench:
+### 👩‍💻 Giới thiệu (About Me)
+Hi there! I am currently a 3rd-year Information Technology student at Ho Chi Minh City University of Education (HCMUE). While my curriculum provides a comprehensive foundation in computer science, my strong passion for software quality has led me to actively self-direct my learning path toward **Software Quality Assurance (SQA)**.
 
-**QA & Testing**
-* **Cypress** - End-to-End (E2E) Automation Testing
-* **Postman** - REST API Testing (Methods, Status Codes, JSON)
-* **Jira** - Bug tracking, Agile/Scrum project management
-
-**Development & CI/CD**
-* **Git & GitHub** - Version control & source code management
-* **GitHub Actions** - Continuous Integration & Continuous Deployment (CI/CD)
-* **JavaScript / TypeScript** - Scripting for test automation
-* **HTML/CSS & Angular** - Frontend basics for accurate UI/UX testing
-* **LaTeX / Markdown** - Technical documentation
+My career goal is to start as a **Manual Tester / QA Intern** to build a solid foundation in functional testing, bug tracking, and Agile workflows. My long-term roadmap focuses on becoming an **Automation QA Engineer**, utilizing modern frameworks and CI/CD pipelines to optimize the software testing lifecycle.
 
 ---
 
-### My Projects :rocket:
+### 🧠 Tư duy Kiểm thử (My QA Philosophy)
+To me, QA is not just about finding bugs at the end of the line, but preventing them from the start.
+* **User-Centric:** Testing features through the eyes of the end-user to ensure not just functionality, but a seamless UI/UX.
+* **Shift-Left Testing:** Believing in early QA involvement in the SDLC to identify logical risks and reduce bug-fixing costs.
+* **Continuous Improvement:** Transitioning repetitive manual test cases into automated scripts (Cypress) to increase test coverage and efficiency.
 
-**1. QA-CICD-Project (Automation E2E Testing)** | [View Source Code](https://github.com/iam-tuyen/QA-CICD-Project)
-* **Description:** Built a comprehensive automated testing framework for a simulated e-commerce website (SauceDemo).
-* **Tech:** Cypress, JavaScript, Mochawesome, GitHub Actions.
-* **Achievements:** * Automated 100% of core business flows (Login, Cart, Checkout).
-  * Implemented Data-Driven Testing using `Fixtures` and optimized code with `Custom Commands`.
-  * Integrated GitHub Actions to automatically trigger regression tests and generate HTML reports upon every code push.
+---
+
+### 🔧 Công cụ & Kỹ thuật (Tech Stack & Tools)
+
+| Phân loại (Category) | Kỹ năng & Công cụ (Skills & Tools) |
+| :--- | :--- |
+| **Testing Concepts** | SDLC, STLC, Bug Life Cycle, Test Planning, Test Cases design (Equivalence partitioning, Boundary value) |
+| **Automation & API** | Cypress (E2E), Postman (REST API: Methods, Status Codes, JSON assertions) |
+| **Management Tools** | Jira (Agile/Scrum, Bug tracking), Confluence |
+| **DevOps & Source** | Git, GitHub, GitHub Actions (CI/CD workflows) |
+| **Technical Basics** | JavaScript / TypeScript, HTML/CSS, Angular, Linux CLI |
+
+---
+
+### 🚀 Dự án thực tiễn (My Projects)
+
+**1. QA-CICD-Project (Automation E2E Testing)** | [🔗 View Source Code](https://github.com/iam-tuyen/QA-CICD-Project)
+* **🎯 Objective:** Build a comprehensive automated testing framework for a simulated e-commerce website (SauceDemo).
+* **🛠️ Technologies:** Cypress, JavaScript, Mochawesome Reporter, GitHub Actions.
+* **💡 QA Impact:** * Automated 100% of core business flows (Login, Cart, Checkout).
+  * Implemented Data-Driven Testing using `Fixtures` and optimized code maintainability with `Custom Commands`.
+  * Integrated a CI/CD pipeline to automatically trigger regression tests and generate HTML reports upon every code push.
 
 **2. GEAR-ECOMMERCE (Web System)** | *Academic Team Project*
-* **Description:** An e-commerce platform for tech gears built with Angular.
+* **🎯 Objective:** Ensure the quality and data integrity of an e-commerce platform built with Angular.
 * **Role:** Frontend Assistant & Manual QA.
-* **Achievements:**
+* **💡 QA Impact:**
   * Performed functional testing and UI/UX reviews from an end-user perspective.
-  * Collaborated closely with developers to track bugs and re-test routing features.
+  * Collaborated closely with developers to track bugs, test routing logic, and re-test fixed issues before deployment.
 
 ---
 
-### Certificates & Continuous Learning :trophy:
-To solidify my knowledge and keep up with industry standards, I have completed the following professional certifications:
-
+### 🏆 Chứng chỉ chuyên môn (Certificates)
+Continuous learning is my core value. I validate my skills through professional certifications:
 * 🥇 **Google IT Automation with Python Professional Certificate** (Coursera)
 * 🥈 **Agile/Scrum Foundation** - Essential framework for modern software development.
 * 🥉 **Mendix Rapid Developer Certification** (Mendix Academy) - Low-code application development.
@@ -53,11 +59,8 @@ To solidify my knowledge and keep up with industry standards, I have completed t
 
 ---
 
-### Soft Skills :file_folder:
-* Strong analytical & problem-solving skills
-* Attention to detail (Crucial for a QA)
-* Team collaboration & clear communication
-* Fast learner & highly adaptable
-
----
-*Thank you for visiting my portfolio. I am always open to discussing QA opportunities and learning new testing technologies!* 🚀
+### 📬 Liên hệ (Contact)
+I am always open to discussing QA opportunities, internships, and learning new testing technologies! Feel free to reach out:
+* 📧 **Email:** [email_cua_ban@gmail.com](mailto:email_cua_ban@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/username)
+* 🐙 **GitHub:** [github.com/iam-tuyen](https://github.com/iam-tuyen)
