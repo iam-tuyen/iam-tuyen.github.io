@@ -61,6 +61,6 @@ Continuous learning is my core value. I validate my skills through professional 
 
 ### 📬 Liên hệ (Contact)
 I am always open to discussing QA opportunities, internships, and learning new testing technologies! Feel free to reach out:
-* 📧 **Email:** [email_cua_ban@gmail.com](mailto:email_cua_ban@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/username)
+* 📧 **Email:** [email_cua_ban@gmail.com](mailto:thanhtuyen02598@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/iam-tuyen/)
 * 🐙 **GitHub:** [github.com/iam-tuyen](https://github.com/iam-tuyen)
